@@ -1,6 +1,6 @@
 # Tradutor
 
-Criando um metodo de traduzir a pagina de uma forma organizada e eficiente.
+Tradutor de página sem API.
 
 ## NGX/Translate
 
